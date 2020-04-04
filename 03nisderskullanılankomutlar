@@ -1,0 +1,59 @@
+501  pwd
+  502  ls
+  503  cd Desktop/
+  504  ls
+  505  mkdir project1
+  506  cd project1/
+  507  ls
+  508  ls -a
+  509  clear
+  510  ls
+  511  ls -a
+  512  clear
+  513  ls -a
+  514  git config --list
+  515  clear
+  516  ls -a
+  517  git init
+  518  ls
+  519  ls -a
+  520  cd .git
+  521  ls
+  522  git status
+  523  cd ..
+  524  git status
+  525  touch deneme.txt
+  526  ls
+  527  git status
+  528  git add deneme.txt
+  529  clear
+  530  git status
+  531  git status
+  532  git rm --cached
+  533  git status
+  534  git add .
+  535  git s
+  536  clear
+  537  git status
+  538  git status
+  539  git add .
+  540  git status
+  541  git commit -m "First hello world line added"
+  542  git status
+  543  git add .
+  544  git commit
+  545  clear
+  546  git log
+  547  git status
+  548  git add .
+  549  git status
+  550  git commit -m "Ucuncu commit, yeni dosya olusturdum"
+  551  git log
+  552  git checkout dd56650f5a1ecfe75c887d9ea32544c0eca738ae
+  553  git checkout 4308cf0f7140e29153917879860b11ec8b0fa42a
+  554  git log
+  555  git log --pretty=oneline
+  556  git status
+  557  git checkout master
+  558  git status
+  559  history
